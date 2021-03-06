@@ -15,49 +15,6 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
             "setupCommands": [
                 {
                     "description": "Włącz formatowanie kodu dla gdb",
