@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
@@ -44,18 +45,8 @@ PORTD |= 1 << PIND1; //Set PINB1 to a high reading
 
 	while (1)
 		{
-			PORTC ^= 1 << PINC0; 
-			PORTC ^= 1 << PINC1; 
-			PORTC ^= 1 << PINC2;
-			PORTC ^= 1 << PINC3;
-			PORTC ^= 1 << PINC4;
-			PORTC ^= 1 << PINC5;
-			PORTC ^= 1 << PINC6;
-			PORTC ^= 1 << PINC7;
+			PORTC |=(0b11111111);
 			_delay_ms(20);
-		
-		
-		
 		}
 }
 
