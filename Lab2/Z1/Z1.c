@@ -1,6 +1,6 @@
-//Poni¿ej podaj swoje dane
-//<Dominik Boczkowski>
-//<094207>
+//Poniï¿½ej podaj swoje dane
+//<>
+//<>
 //<Grupa studencka: 1>
 //<Grupa laboratoryjna: 1>
 //Cw2Z1
